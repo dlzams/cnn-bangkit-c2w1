@@ -27,12 +27,12 @@
    - If the model training is completed and you want to save the training history, run the cell that calls the `download_history` function.
    - The `history.pkl` file will be downloaded and you can save it along with your notebook.
   
-*Notes*
-You will need these packages if you will run the notebooks locally:
-tensorflow==2.7.0
-scikit-learn==1.0.1
-pandas==1.1.5
-matplotlib==3.2.2
-seaborn==0.11.2
-
 By following the above steps, you can run and train your own model to classify cat and dog images.
+
+### Notes 
+You will need these packages if you will run the notebooks locally:\
+tensorflow==2.7.0\
+scikit-learn==1.0.1\
+pandas==1.1.5\
+matplotlib==3.2.2\
+seaborn==0.11.2
